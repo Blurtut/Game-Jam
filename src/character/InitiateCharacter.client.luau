@@ -1,3 +1,10 @@
+--[[
+	attention to programmers and arts and design if your 
+	going to add new script create here not in the roblox
+	studio follow the dot format ex(name.client.luau or 
+	name.server.luau) in corresponding folder
+--]]
+
 -- Disable Jump
 local character = script.Parent
 local humanoid = character:WaitForChild("Humanoid")
